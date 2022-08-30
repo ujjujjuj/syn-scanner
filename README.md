@@ -14,4 +14,4 @@ Additionally, you can add the flag `--include-closed` to include closed ports in
 
 ## Note
 
-This tool is just a proof of concept. Since there is no timing mechanism like nmap, it occasionally drops probes due to rate limiting which occasionally gives unreliable results.
+This tool is just a proof of concept. Since there is no timing mechanism like nmap, it occasionally drops probes due to rate limiting which can give unreliable results.
